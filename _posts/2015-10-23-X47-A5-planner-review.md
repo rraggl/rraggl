@@ -18,8 +18,8 @@ As a matter of fact, the X47 system comes – for me – pretty close to perfect
 
 I only have two quite minor issues with this planner:
 
-    You cannot insert reference pages / papers in your planner aside in one of the pockets. I would really love to see some sort of “binder booklet” in which you can add your own reference materials.
-    The pen loop is FAR too small for the Rotring (http://www.rotring.de) pens that I normally use, which is a real pity.
+1. You cannot insert reference pages / papers in your planner aside in one of the pockets. I would really love to see some sort of “binder booklet” in which you can add your own reference materials.
+2. The pen loop is FAR too small for the Rotring (http://www.rotring.de) pens that I normally use, which is a real pity.
 
 For the details, please have a look at my video on YouTube and should you have any questions regarding this, please feel free to contact me – or X47 for that matter – anytime!
 
