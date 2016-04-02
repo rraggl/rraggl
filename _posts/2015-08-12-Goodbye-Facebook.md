@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Going retro & iPadOnly
-date:       2015-05-31 11:21:29
-summary:    A change in computing
+title:      Leaving Facebook - for the 2nd time
+date:       2015-08-06 11:21:29
+summary:    Goodbye Facebook
 categories: jekyll pixyll
 ---
 
