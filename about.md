@@ -15,6 +15,7 @@ My main interests are minimalism, technology, photography, literature, stationar
 I try to enjoy the simple things in life and can generally be described as a cheerful and reliable good guy.
 
 "The only honorable way to live in this world is to be who you pretend to be."
+
 My motto, stolen from a guy named Socrates.
 
 --------------------------------------------------------------------------------
