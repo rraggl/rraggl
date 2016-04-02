@@ -22,7 +22,9 @@ To do this with (relative) safety, however, I need a VPN service. After doing so
 
 However, most of my day to day browsing and e-Mailing will be done by using my mobile phone. "What?" you will say, "You just wrote in an article last year that you recommend against smartphones!"
 
-True. But as almost everything in life, things are not black and white here. My contract extension with T-Mobile Netherlands was coming up and I decided to pick one of their new contracts which you can adjust up or down as you need. The basic one with unlimited calls / texts and 3 GB of data turned out to be almost 15,- Euros cheaper than my current one which only has 1 GB, so that can't be bad. So I went for that and picked up an iPhone 6 128 GB with that. All with abandoning home Internet in mind: I could keep all my music and data on my phone and still use it to tether my iPad or Laptop to for browsing and e-Mailing.
+True. But as almost everything in life, things are not black and white here. While I detest the way that they are making us ever more unsocial, I am fully aware of the usefulness of the tool "Smartphone".
+
+My contract extension with T-Mobile Netherlands was coming up and I decided to pick one of their new contracts which you can adjust up or down as you need. The basic one with unlimited calls / texts and 3 GB of data turned out to be almost 15,- Euros cheaper than my current one which only has 1 GB, so that can't be bad. So I went for that and picked up an iPhone 6 128 GB with that. All with abandoning home Internet in mind: I could keep all my music and data on my phone and still use it to tether my iPad or Laptop to for browsing and e-Mailing.
 
 I still have turned off almost all notifications and don't have push e-Mail enabled. Instead I pull messages every three hours from 07:00 to 21:00. And that really helps battery life too.
 
