@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
+title:       Gadget Guy vs Retro-Man
+email:       rene@raggl.me
+author:      Rene Raggl (jekyll by John Otander)
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://rene.raggl.me"
 date_format: "%b %-d, %Y"
 
 # Google services
