@@ -29,7 +29,7 @@ And this got me the right pointers to set up a site on GitHub pages (Which was R
 
 Now, importing my posts from Wordpress was the next task and it turned out to be quite a pain in the ass: The recommended WP-plugin did not work for me and I could not run the script (or at least I did not know how). So I had to copy and paste everything by hand. Hmm, there must be an easier way... And yes, there was: a nifty little text editor called "Atom" that I had wanted to try out for some time works great. Still copy and paste, but the workflow is a lot easier.
 
-I know, I know, the site does not look like much right now, but please keep in mind that I am still trying to get the hang of this, so please bear with me. The content on here is at the moment more important than the looks. And yes, I know, links are not working yet, some have altogether disappeared, the formatting is off and there are still a bunch of other things to be fixed.
+I know, I know, the site does not look like much right now, but please keep in mind that I am still trying to get the hang of this, so please bear with me. The content on here is at the moment more important than the looks. And yes, I know, links are not working yet, some have altogether disappeared, the formatting is off and there are still a bunch of other things to be fixed. Have patience with me, I'll get there!
 
 If you want to leave me your thoughts, please feel free to do so either by Twitter (@rraggl) or by using the mail form on the site.
 
