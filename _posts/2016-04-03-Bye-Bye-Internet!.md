@@ -20,7 +20,7 @@ After ruminating on this for a while, I thought "I can do this!" There are plent
 
 To do this with (relative) safety, however, I need a VPN service. After doing some research I decided to go for http://www.cyberghostvpn.com and did not regret it yet. It supports all my devices and seems not to have a very negative effect on the connection speed. The price of 70,- something Euros for two years was reasonable too.
 
-However, most of my day to day browsing and e-Mailing will be done by using my mobile phone. "What?" you will say, "You just wrote in an article last year that you recommend against smartphones!"
+However, most of my day to day browsing and e-Mailing will be done by using my mobile phone. "What?" you will say, "You just wrote in an article last year that you recommend against smartphones!" (http://rene.raggl.me/jekyll/pixyll/2015/11/03/My-take-on-dumbphones/)
 
 True. But as almost everything in life, things are not black and white here. While I detest the way that they are making us ever more unsocial, I am fully aware of the usefulness of the tool "Smartphone".
 
