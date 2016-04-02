@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Going retro & #iPadOnly
+title:      Going retro & iPadOnly
 date:       2015-05-31 11:21:29
 summary:    A change in computing
 categories: jekyll pixyll
