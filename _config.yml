@@ -18,11 +18,11 @@ bing_verification:
 
 # Optional features
 animated:             false
-show_related_posts:   false
-show_post_footers:    false
-show_social_icons:    false
+show_related_posts:   true
+show_post_footers:    true
+show_social_icons:    true
 ajaxify_contact_form: false
-enable_mathjax: false
+enable_mathjax: true
 extended_fonts: false
 
 # Disqus post comments
@@ -39,7 +39,7 @@ facebook_comments_number: 10
 github_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: @rraggl
 skype_username:
 steam_nickname:
 google_plus_id:
@@ -51,14 +51,14 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
-share_googleplus: false
-share_linkedin: false
+share_facebook: true
+share_twitter: true
+share_googleplus: true
+share_linkedin: true
 share_digg: false
-share_tumblr: false
+share_tumblr: true
 share_reddit: false
 share_stumbleupon: false
 share_hackernews: false
@@ -93,7 +93,7 @@ text:
       sending:  'sending..'
       sent:     'Message sent!'
       error:    'Error!'
-  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
+  thanks: 'Thanks for contacting me! I will reply as soon as possible.'
   og_locale: 'en_US'
 
 # Build settings
