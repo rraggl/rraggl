@@ -3,7 +3,7 @@ layout:     post
 title:      Me on the radio
 date:       2015-11-03 11:21:29
 summary:    ... or how I am trying to communicate the merits of dumphones.
-categories: jekyll pixyll
+categories: Minimalism Mobile
 ---
 
 Let me start this by saying that I used to be somebody who bought new (smart)phones at least every twelve months and that – if I did not miscount – I have owned 42 telephones since I got my first Nokia 1611 in 1998. To save you the maths, this is almost 2,5 phones per year. So that is where the “Gadget Guy” part comes in. And this madness has to stop.

@@ -3,7 +3,7 @@ layout:     post
 title:      X47 Uno1 Wallet review
 date:       2015-01-24
 summary:    A review of the great X47 Uno1 wallet
-categories: jekyll pixyll
+categories: Review X47
 ---
 
 

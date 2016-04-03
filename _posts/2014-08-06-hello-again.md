@@ -3,7 +3,7 @@ layout:     post
 title:      Hello World
 date:       2014-08-06 11:21:29
 summary:    Back after a hiatus.
-categories: jekyll pixyll 
+categories: Hello  
 ---
 
 After an absence of more than three years, I decided to take up blogging again. It has been a while and I decided to tackle it differently this time. Instead of a souped up diary, I will try to share my insights regarding Technology, the Internet, Products, Travel, Photography as well as Business and hope that at least some of you out there may profit from it.

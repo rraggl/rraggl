@@ -3,7 +3,7 @@ layout:     post
 title:      Switching blogging platform
 date:       2016-04-02 11:21:29
 summary:    ... my move from Wordpress to Jekyll
-categories: jekyll pixyll
+categories: Internet 
 ---
 
 Hi there!

@@ -3,7 +3,7 @@ layout:     post
 title:      Going retro & iPadOnly
 date:       2015-05-31 11:21:29
 summary:    A change in computing
-categories: jekyll pixyll
+categories: iPad Computer Minimalism
 ---
 
 As of last Friday I do not own a computer in the traditional sense anymore.

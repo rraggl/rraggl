@@ -3,7 +3,7 @@ layout:     post
 title:      X47 A5 Classic Planner review
 date:       2015-08-06 11:21:29
 summary:    Review of a great Planner
-categories: jekyll pixyll
+categories: Review X47
 ---
 
 A few months back I was contacted by the owner of X47 regarding my earlier review of the X47 Uno wallet. He had seen it, liked it and asked me if there were any other X47 (http://www.x47.de) products that I would like to review.

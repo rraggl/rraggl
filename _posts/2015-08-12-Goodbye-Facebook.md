@@ -3,7 +3,7 @@ layout:     post
 title:      Leaving Facebook - for the 2nd time
 date:       2015-08-06 11:21:29
 summary:    Goodbye Facebook
-categories: jekyll pixyll
+categories: Internet
 ---
 
 Sorry, Mr. Zuckerberg, things will simply not work out between the two of us. I simply cannot agree with your business ethics about selling and using conversations that you lead people to believe are private for your own purposes and for advertising revenue.

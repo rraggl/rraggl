@@ -3,7 +3,7 @@ layout:     post
 title:      Minimalism...
 date:       2015-11-03 11:21:29
 summary:    ... or how I am decluttering my life.
-categories: jekyll pixyll
+categories: Minimalism
 ---
 
 
