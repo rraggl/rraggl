@@ -3,16 +3,14 @@ layout:     post
 title:      Switching blogging platform
 date:       2016-04-02 11:21:29
 summary:    ... my move from Wordpress to Jekyll
-categories: Internet 
+categories: Internet
 ---
 
 Hi there!
 
-Today I am writing you regarding a technical update on this site. For years I have been running it
-on Wordpress. However, recently I found all the updating of plug-ins, themes etc. more of a hassle
-and detrimental to my writing. Therefore I started looking for a new way to run my blog and stumbled
-across an article on Opensource.com (https://opensource.com/life/16/2/my-jekyll-workflow) which made
-me quite curious. The promises that were made in this article were almost too good to be true. Free and Opensource, secure, quick and easy to use, as you can write your blog posts in Markdown. Also, as you are basically just editing text files, you can use any kind of computer to access and edit your blog as you see fit.
+Today I am writing you regarding a technical update on this site.
+
+For years I have been running it on Wordpress. However, recently I found all the updating of plug-ins, themes etc. more of a hassle and detrimental to my writing. Therefore I started looking for a new way to run my blog and stumbled across an article on Opensource.com (https://opensource.com/life/16/2/my-jekyll-workflow) which made me quite curious. The promises that were made in this article were almost too good to be true. Free and open source, secure, quick and easy to use, as you can write your blog posts in Markdown. Also, as you are basically just editing text files, you can use any kind of computer to access and edit your blog as you see fit.
 
 So I began checking out how I could make this work. For this, you have to know that I am not a programmer.
 Well, unless you need some C64 BASIC, but even that I would call rusty at my best day.
