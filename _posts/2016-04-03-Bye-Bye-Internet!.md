@@ -2,7 +2,7 @@
 layout:     post
 title:      No more home Internet...
 date:       2016-04-03 10:00:00
-summary:    Don't worry, I'll be just fine!
+summary:    I'll be just fine!
 categories: Internet Computer
 ---
 
