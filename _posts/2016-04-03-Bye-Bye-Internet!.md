@@ -2,7 +2,7 @@
 layout:     post
 title:      No more home Internet...
 date:       2016-04-02 10:00:00
-summary:    No, I'll be just fine!
+summary:    Don't worry, I'll be just fine!
 categories: jekyll pixyll
 ---
 
