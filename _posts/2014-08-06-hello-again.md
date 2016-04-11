@@ -10,7 +10,7 @@ After an absence of more than three years, I decided to take up blogging again. 
 
 I will also regularly review things I own and how they fit the bigger picture in my life. I will show you my struggle against overweight and other obstacles and all the other insanities of modern life. From time to time I will share interesting posts from other people like the inspiring Leo Babauta, Trey Ractliff, Justine Ezarik (aka iJustine) or Marquess Brownlee.
 
-The intention is to do this in a fun, yet honest way (which is why I chose the name “Gi Shin” for this blog, which is Japanese and means “Righteousness” and “Sincerety”). If I should gain enough traction with this to be able and do sponsored reviews, I will tell you so. If I don’t like something, I will tell you. All questions shall be answered to the best of my abilities. That’s a promise! 😉
+The intention is to do this in a fun, yet honest way. If I should gain enough traction with this to be able and do sponsored reviews, I will tell you so. If I don’t like something, I will tell you. All questions shall be answered to the best of my abilities. That’s a promise! 😉
 
 So, I hope you will enjoy the future reading and if you have any questions or suggestions, make sure to let me know!
 
