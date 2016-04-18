@@ -18,15 +18,9 @@ Since starting my career in 2001, I have usually worked as (Key) Account Manager
 
 Only two of them actually really brought me joy, but as I had money to burn and was credit "worthy" I could and would splurge and always buy the latest gadgets from Smartphones, to Computers, Tablets, Cameras,  etc. etc. to fill up the void. Fooling myself, is what I call it now.
 
-
-
-
-
 I believed it would make me happy and loved and admired, like the advertisments promised.
 
 Well, it did not and they are all liars, but stunningly enough we appear to trust those marketing guys deeply. I still felt empty and unfulfilled and with loosing the last job I really loved in 2014, I felt I had no aim anymore, nothing to strive for. So I sought comfort in food and over eating (which I had been prone to before).  And I started purchasing even more stuff.
-
-
 
 So, how did I get into this "minimalism" thing?
 
@@ -57,16 +51,6 @@ Under this guiding line, I started tossing all the really useless stuff. Not wit
 - 10 60 Liter bags of unfitting / ugly (in my view, most of it was still as new) / unwanted clothing were donated to the Salvation Army or the Refugee Center here on the island
 
 - 16 large moving boxes filled with everything from kitchen utensils, to old Laptops and Smartphones, Playstation, Games, Books, childhood toys etc. etc. etc. Either given to friends and neighbours or sold off (with little success) or given to the local "Kringloopwinkel" (= thrift shop).
-
-    That is just one example...
-
-    1
-    2
-    3
-    4
-
-    Previous
-    Next
 
 One "condition" for me was that I would throw away as little as possible, so last Friday I jammed my car full with all the stuff I could not sell after two weeks and brought everything to the local thrift shop. The only thing I asked them in return is to put aside nice LPs / Minidiscs - music being one of those "things" that have real value for me - if they get them and that was fine with them.
 

@@ -28,7 +28,7 @@ My contract extension with T-Mobile Netherlands was coming up and I decided to p
 
 I still have turned off almost all notifications and don't have push e-Mail enabled. Instead I pull messages every three hours from 07:00 to 21:00. And that really helps battery life too.
 
-In preparation for my "offline" life, I also recorded a lot of music to MiniDisc, bought a DVD player at the thrift store and picked up a bunch of DVDs for 1,- Euro apiece from the Dutch version of Craigslist. And I will have a lot more time to read, so I'll spend a lot of time at the library anyway.
+In preparation for my "offline" life, I also recorded a lot of music to MiniDisc, bought a DVD player at the thrift store and picked up a bunch of DVDs for 1,- Euro apiece from the Dutch version of Craigslist. For the rest I'll rely on being able to lend DVDs from the library, which does have an extensive and ever changing catalogue. And I will have a lot more time to read, so I'll spend a lot of time at the library anyway.
 
 Now I only need to get my record player fixed.
 

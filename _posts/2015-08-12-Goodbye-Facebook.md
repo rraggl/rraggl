@@ -42,7 +42,7 @@ See below my last Facebook post. I will hit that “Delete Account” tomorrow e
     – E-Mail: rene at raggl.me
     – Twitter: @rraggl
 
-    If one of you would like to have my (snail)mail addres or my telephone number, please send me a private message before tomorrow evening.
+    If one of you would like to have my (snail)mail address or my telephone number, please send me a private message before tomorrow evening.
 
     Hope to hear from some of you in the future!
 
