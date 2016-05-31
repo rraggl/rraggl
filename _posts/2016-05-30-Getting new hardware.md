@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Getting new hardware...
-date:       2016-05-31 15:40:29
+date:       2016-05-30 15:40:29
 summary:    ... it's not always necessary
 categories: Internet Computer
 ---
