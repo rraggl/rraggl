@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Getting new hardware...
-date:       2016-05-31 21:20:29
+date:       2016-05-31 15:40:29
 summary:    ... it's not always necessary
 categories: Internet Computer
 ---
@@ -24,4 +24,4 @@ So while I REALLY liked the Laptop itself, while I had filed the complaint with 
 
 I just wrote the mail to tweedehandslaptop.nl that I want to undo the purchase and asked them to give me back my money, which they accepted without further ado. Aside from the lacking shipping control on the T430s, their service was spot on. So I'll be certain to come back to them, when the time comes.
 
-I will use the Linux VM for my course and will have to do the daily tasks on OS X and there is no shame in that. It's what I have at the moment and I'll have to make do. 
+I will use the Linux VM for my course and will have to do the daily tasks on OS X and there is no shame in that. It's what I have at the moment and I'll have to make do.
