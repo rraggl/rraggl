@@ -8,6 +8,9 @@ categories: Internet Computer Privacy
 
 Dear all,
 
+<p>This is <a href="http://example.com/" title="Title">
+an example</a> inline link.</p>
+
 I write this update to tell you that within the next two weeks, I will shut down my LinkedIn account. I really valued our connections here, but I can't keep doing this with a clean conscience. For the few of you who haven't already moved on to the next post, I'll gladly explain why:
 
 ##Reason No 1:
