@@ -28,7 +28,7 @@ And what do we do? Throw it all away. For convenience.
 
 The convenience to share our experiences with our dear ones, friends and acquaintances.
 
-Wait a minute, didn’t we do this before FB too? No? By letter, postcard, telephone or E-Mail. Or private messaging services like Telegram. (And please don’t get me started on WhatsApp!)
+Wait a minute, didn’t we do this before FB too? No? By letter, postcard, telephone or E-Mail. Or private messaging services like Telegram, Threema or Signal. (And please don’t get me started on WhatsApp!)
 
 It’s still possible today, but the question is if we have become too lazy or not to stay in touch with people we care about the normal way.
 
@@ -38,7 +38,7 @@ So feel free to leave your parting thoughts, rants or whatever moves you and com
 
 After tomorrow evening you will be able to reach me using one of the following methods:
 
-– Website: http://rene.raggl.me
+– Website: (http://rene.raggl.me)
 – E-Mail: rene at raggl.me
 – Twitter: @rraggl
 

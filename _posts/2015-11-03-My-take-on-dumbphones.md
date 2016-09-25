@@ -12,7 +12,7 @@ Sunday evening as I stepped into the car to drive home, my radio was tuned in to
 
 And he was talking about something that actually had kept me busy for some time now: how he is obsessed and preoccupied with his smartphone. He wanted to put up 10 tips to use your smartphone sensibly and I offered him what I have been doing for the last ca. 1-2 months: I use a dumbphone from 2006 and I actually like it quite a lot. (I don’t see the point to use a smartphone just to remove all apps on it.)
 
-I texted this to the stations number and very much to my surprise I got called back within a few minutes, after a few basic questions I was directly on air for the show. You can find the record here: http://www.3fm.nl/a/ug/359107 (My part starts after around 1:18:00.)
+I texted this to the stations number and very much to my surprise I got called back within a few minutes, after a few basic questions I was directly on air for the show. You can find the record here: (http://www.3fm.nl/a/ug/359107) (My part starts after around 1:18:00.)
 
 So, now that the bragging is out of the way, I would like to explain in more detail what this is about for me:
 
@@ -36,5 +36,7 @@ And if it breaks, I can get the next one from the Internet for 20-40 Euros. This
 The next step will be to cancel my contract. At the moment, I am still tied to a contract until June 2016, for which I pay about 38,- Euros per month. I intend to cancel it as soon as I get the chance and switch to a cheaper SIM-only offer which will cost me less then half of that and allows me to cancel it anytime I want to.
 
 And last but not least, as they say in the viral YouTube Video by Gary Turk called “Look Up”: smart phones and dumb people.
+
+I don't know if I will be able to keep it this way. People tend not to call anymore and prefer WhatsApp instead (grr!).
 
 By the way, the Note 3 is for sale with a whole bunch of accessories, so if you are interested, feel free to head over to Marktplaats and check it out. It served me well and is a great device in itself, but I do not longer want to live this way. And because living on unemployment pay, I can use every Euro I can get.

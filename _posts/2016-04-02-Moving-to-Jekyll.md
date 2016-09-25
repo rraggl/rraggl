@@ -21,7 +21,7 @@ To put it in one sentence: The simplicity of Jekyll makes it damned attractive f
 
 First, I of course wanted to run it through my domain hosting provider (http://www.mijndomein.nl) but to no avail: Jekyll is programmed in a language called Ruby / Ruby Gems, which is not (yet) supported by them. Hmm... big stumbling block there... If I can't run it, I can't use it, no matter how promising the software is.
 
-Well, after some hours of further research, I came across the following site: https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
+Well, after some hours of further research, I came across the following site: (https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
 
 And this got me the right pointers to set up a site on GitHub pages (Which was REALLY new to me but so far I really like this!) and run Jekyll from a repository there. Then, all I had to do was to adjust the necessary CNAME records and "Presto!". That's it!
 

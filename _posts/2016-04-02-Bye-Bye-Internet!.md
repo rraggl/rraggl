@@ -14,11 +14,11 @@ It is weird to actually write about that, but Internet has become so omni-presen
 
 Well, why would I then make this dumb-ass move, you ask? As I wrote earlier, I am currently without a job and still have nothing really promising in sight. I don't know what it is with employers now. But to further cut back on my expenses, the 35,- Euros / month that Internet costs me is one of the larger positions still left on my monthly bills. Together with cancelling that and some other non-necessary monthly spending (two insurances and a reduction on my cell phone plan), I was able to shave another 110,- Euros off my expenses. I actually should have done that earlier, but then again, I thought I would find work much earlier.
 
-So, how will I get by? How will I live? Most applications are done online. Taxes are done online, almost all communication nowadays is done online. And I am not (yet) a hermit, but I need to cut costs. Well, again, somebody else delivered the inspiration: http://www.theminimalists.com/internet/
+So, how will I get by? How will I live? Most applications are done online. Taxes are done online, almost all communication nowadays is done online. And I am not (yet) a hermit, but I need to cut costs. Well, again, somebody else delivered the inspiration: (http://www.theminimalists.com/internet/)
 
 After ruminating on this for a while, I thought "I can do this!" There are plenty of public WiFi spots available here: in the library (which is really cozy), in Café's in public areas and in a real pinch I could drop in at friends to "loan" their Internet connection.
 
-To do this with (relative) safety, however, I need a VPN service. After doing some research I decided to go for http://www.cyberghostvpn.com and did not regret it yet. It supports all my devices and seems not to have a very negative effect on the connection speed. The price of 70,- something Euros for two years was reasonable too.
+To do this with (relative) safety, however, I need a VPN service. After doing some research I decided to go for (http://www.cyberghostvpn.com) and did not regret it yet. It supports all my devices and seems not to have a very negative effect on the connection speed. The price of 70,- something Euros for two years was reasonable too.
 
 However, most of my day to day browsing and e-Mailing will be done by using my mobile phone. "What?" you will say, "You just wrote in an article last year that you recommend against smartphones!" (http://rene.raggl.me/jekyll/pixyll/2015/11/03/My-take-on-dumbphones/)
 

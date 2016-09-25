@@ -18,9 +18,11 @@ Especially considering that they run the OS with the biggest market share in SMB
 (Remember this? http://www.theregister.co.uk/2016/07/01/microsoft_gets_creepy_with_win10/)
 And as you may or may not know, they recently not only took over LinkedIn, but also Sunrise Calendar and the Wunderlist to-do manager. (I would not be surprised if they were looking to take over Evernote too.) This means they know what appointments people have, what they got to do, where they are at which time and who their business connection is.  
 
-Also, I value my business connections tremendously. Some of them brought me to where I am now and you have all influenced me, my career and even my life in one way or the other. I am grateful for that. For that, I go to great lenghts to protect your data. So should LinkedIn / Microsoft. But we all know that Microsoft has a far less than perfect scorecard on this subject.
+Also, I value my business connections tremendously. Some of them brought me to where I am now and you have all influenced me, my career and even my life in one way or the other.
 
-In short: your business is to valuable for me to trust LinkedIn with your and my data and conversations.
+I am deeply grateful for that. Therefore, I go to great lenghts to protect your data. So should LinkedIn / Microsoft. But we all know that Microsoft has a far less than perfect scorecard on this subject.
+
+In short: your business is too valuable for me to trust LinkedIn with your and my data and conversations.
 
 ##Reason No 2:
 I have always only used it more like a modern-day Rolodex. A place where I keep my business contact data. And as you did all the work of entering your contact information, I did not have to. (I am lazy that way.) I now did an export of all my contacts here to an Excel file and have your contact information, so we can be in touch whenever we like, by mail, phone or mail.
