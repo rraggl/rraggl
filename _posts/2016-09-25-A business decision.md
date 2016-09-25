@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Kicking out LinkedIn
+title:      LinkedIn, you're fired!
 date:       2016-09-25 09:48:00
 summary:    Loosing trust is loosing customers
 categories: Internet Computer Privacy
