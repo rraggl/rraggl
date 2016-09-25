@@ -8,17 +8,14 @@ categories: Internet Computer Privacy
 
 Dear all,
 
-<p>This is <a href="http://example.com/" title="Title">
-an example</a> inline link.</p>
-
 I write this update to tell you that within the next two weeks, I will shut down my LinkedIn account. I really valued our connections here, but I can't keep doing this with a clean conscience. For the few of you who haven't already moved on to the next post, I'll gladly explain why:
 
 ##Reason No 1:
-I don't trust them anymore. After the takeover by Microsoft and the huge hack that came to light in May this year, my trust in LinkedIn has gone: https://www.troyhunt.com/observations-and-thoughts-on-the-linkedin-data-breach And as some of you know, I have been getting more and more serious with data security and privacy in the last few months, so to me this is a huge thing. It may not be to you, as you are still with the "I got nothing to hide crowd", but maybe someday you will change your mind.
+I don't trust them anymore. After the takeover by Microsoft and the huge hack that came to light in May this year, my trust in LinkedIn has gone: <a href="https://www.troyhunt.com/observations-and-thoughts-on-the-linkedin-data-breach"></a> And as some of you know, I have been getting more and more serious with data security and privacy in the last few months, so to me this is a huge thing. It may not be to you, as you are still with the "I got nothing to hide crowd", but maybe someday you will change your mind.
 
 I firmly believe that no single company should have as much information (remember: knowledge is power) over people like Microsoft does now.
 Especially considering that they run the OS with the biggest market share in SMB and consumer markets and will happily use it to spy on its users.
-(Remember this? http://www.theregister.co.uk/2016/07/01/microsoft_gets_creepy_with_win10/)
+(Remember this? <a href="http://www.theregister.co.uk/2016/07/01/microsoft_gets_creepy_with_win10/"></a>)
 And as you may or may not know, they recently not only took over LinkedIn, but also Sunrise Calendar and the Wunderlist to-do manager. (I would not be surprised if they were looking to take over Evernote too.) This means they know what appointments people have, what they got to do, where they are at which time and who their business connection is.  
 
 Also, I value my business connections tremendously. Some of them brought me to where I am now and you have all influenced me, my career and even my life in one way or the other.
@@ -41,7 +38,7 @@ However, **IT'S IN THE WRONG F-BEEP-ING PLACE!** (My sincere apologies, I don't 
 People don't seem to understand that LinkedIn is a place for business. At least that was the way it was intended and that is how many people want to use it. So articles should be strictly business related. Maybe they just forget or get carried away.
 
 Personal feelings, stories, memes and tests already do have a place: it is called Facebook.
-(Which I also left some time ago, with similar reasons. You can read that here: http://rene.raggl.me/internet/2015/08/06/Goodbye-Facebook/)
+(Which I also left some time ago, with similar reasons. You can read that here: <a href="http://rene.raggl.me/internet/2015/08/06/Goodbye-Facebook/"></a>)
 
 It has become so bad that aside from the use as a Rolodex, LinkedIn adds no more value for me.
 
@@ -53,9 +50,9 @@ A sound and straight-forward business decision.
 
 Again, like I said, I value the relations with all 475 of you. And I would like to stay in touch. So, you can reach me by one of the following after the account is deactivated:
 
-– Website: http://rene.raggl.me
+– Website: <a href="http://rene.raggl.me"></a>
 – E-Mail: rene at raggl.me
-– Twitter: @rraggl
+– Twitter: <a href="https://twitter.com/rraggl" title="@rraggl"></a>
 
 If one of you would like to have my (snail)mail address or my telephone number, please send me a message and I'll be glad to reply.
 
