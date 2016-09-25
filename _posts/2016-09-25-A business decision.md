@@ -2,7 +2,7 @@
 layout:     post
 title:      LinkedIn, you're fired!
 date:       2016-09-25 09:48:00
-summary:    Losing trust is losing customers
+summary:    Losing trust is losing users
 categories: Internet Computer Privacy
 ---
 
