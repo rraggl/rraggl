@@ -11,14 +11,14 @@ Dear all,
 I write this update to tell you that within the next week, I will shut down my LinkedIn account. I really valued our connections here, but I can't keep doing this with a clean conscience. For the few of you who haven't already moved on to the next post, I'll gladly explain why:
 
 **Reason No 1:**
-I don't trust them anymore. After the takeover by Microsoft and the huge hack that came to light in May this year, my trust in LinkedIn has gone: https://www.troyhunt.com/observations-and-thoughts-on-the-linkedin-data-breach"
+I don't trust them anymore. After the takeover by Microsoft and the huge hack that came to light in May this year, my trust in LinkedIn has gone: https://www.troyhunt.com/observations-and-thoughts-on-the-linkedin-data-breach
 
 And as some of you know, I have been getting more and more serious with data security and privacy in the last few months, so to me this is a huge thing. It may not be to you, as you are still with the "I got nothing to hide crowd", but maybe someday you will change your mind.
 
 I firmly believe that no single company should have as much information (remember: knowledge is power) over people like Microsoft does now.
 Especially considering that they run the OS with the biggest market share in SMB and consumer markets and will happily use it to spy on its users.
 
-Remember this? http://www.theregister.co.uk/2016/07/01/microsoft_gets_creepy_with_win10/"
+Remember this? http://www.theregister.co.uk/2016/07/01/microsoft_gets_creepy_with_win10/
 
 And as you may or may not know, they recently not only took over LinkedIn, but also Sunrise Calendar and the Wunderlist to-do manager. (I would not be surprised if they were looking to take over Evernote too.) This means they know what appointments people have, what they got to do, where they are at which time and who their business connection is.  
 
