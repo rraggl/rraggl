@@ -18,7 +18,7 @@ And as some of you know, I have been getting more and more serious with data sec
 I firmly believe that no single company should have as much information (remember: knowledge is power) over people like Microsoft does now.
 Especially considering that they run the OS with the biggest market share in SMB and consumer markets and will happily use it to spy on its users.
 
-[Remember this?] (http://www.theregister.co.uk/2016/07/01/microsoft_gets_creepy_with_win10/")
+Remember this? http://www.theregister.co.uk/2016/07/01/microsoft_gets_creepy_with_win10/"
 
 And as you may or may not know, they recently not only took over LinkedIn, but also Sunrise Calendar and the Wunderlist to-do manager. (I would not be surprised if they were looking to take over Evernote too.) This means they know what appointments people have, what they got to do, where they are at which time and who their business connection is.  
 
