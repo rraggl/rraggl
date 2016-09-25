@@ -18,7 +18,7 @@ And as some of you know, I have been getting more and more serious with data sec
 I firmly believe that no single company should have as much information (remember: knowledge is power) over people like Microsoft does now.
 Especially considering that they run the OS with the biggest market share in SMB and consumer markets and will happily use it to spy on its users.
 
-(Remember this? http://www.theregister.co.uk/2016/07/01/microsoft_gets_creepy_with_win10/")
+[Remember this?] (http://www.theregister.co.uk/2016/07/01/microsoft_gets_creepy_with_win10/")
 
 And as you may or may not know, they recently not only took over LinkedIn, but also Sunrise Calendar and the Wunderlist to-do manager. (I would not be surprised if they were looking to take over Evernote too.) This means they know what appointments people have, what they got to do, where they are at which time and who their business connection is.  
 
@@ -29,7 +29,7 @@ I am deeply grateful for that. Therefore, I go to great lenghts to protect your 
 In short: your business is too valuable for me to trust LinkedIn with your and my data and conversations.
 
 **Reason No 2:**
-I have always only used it more like a modern-day Rolodex. A place where I keep my business contact data. And as you did all the work of entering your contact information, I did not have to. (I am lazy that way.) I now did an export of all my contacts here to an Excel file and have your contact information, so we can be in touch whenever we like, by mail, phone or mail.
+I have always only used it more like a modern-day Rolodex: a place where I keep my business contact data. And as you did all the work of entering your contact information, I did not have to. (I am lazy that way.) I now did an export of all my contacts here to an Excel file and have your contact information, so we can be in touch whenever we like, by mail, phone or mail.
 
 By the way, if you find this creepy that I now got your (often personal) mail address, it's very easy and LinkedIn will say it's a feature and not a bug. You just go to your connections and in the lower right corner you will find a small link that says "Export connections" and from there you can easily can get a .csv file with all the data.
 Don't worry, I was responsible in dealing with our business together and I will responsibly handle your data.
