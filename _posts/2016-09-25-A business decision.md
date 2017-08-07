@@ -62,3 +62,7 @@ Again, like I said, I value the relations with all 475 of you. And I would like 
 If one of you would like to have my (snail)mail address or my telephone number, please send me a message and I'll be glad to reply.
 
 Hope to hear from some of you in the future!
+
+Yours sincerely,
+
+Rene
